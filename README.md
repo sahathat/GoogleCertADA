@@ -15,9 +15,12 @@
 - Neural network (Tensorflow)
 
 ## Feature selection
-
+Before Engineering: ['satisfaction_level', 'last_evaluation', 'number_project','average_monthly_hours', 'time_spend_company', 'promotion_last_5_years']
+After Engineering: ['last_evaluation', 'number_project','average_monthly_hours', 'time_spend_company', 'promotion_last_5_years']
 
 ## Summary
+- HR need to controlled number project for employee working must on cap like no more than 6 projects per employees.
+- HR need to recruit new employee, train with upskill and development for support their recent work so reduce their time and cost to use and evaluation with fair score point not bias with lower projects number with lower score and high projects number with high score included protect satisfaction of each employees and reduce their overwork.
 
 Tableau dashboard:
 Dashboard: [Why employee left at the most in Salifort company?](https://public.tableau.com/views/Whysalifortemployeeleavefromcompany/WhyemployeeleftinSalifortCompany?:language=th-TH&:display_count=n&:origin=viz_share_link)
